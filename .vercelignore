@@ -1,0 +1,55 @@
+# Backend files (not deployed to Vercel)
+backend/
+backend/**/*
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Environment files
+.env
+.env.local
+.env.*.local
+backend/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+
+# Testing
+coverage/
+.nyc_output/
+__tests__/
+
+# Build outputs (backend)
+backend/dist/
+backend/build/
+
+# Uploads
+uploads/
+backend/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Misc
+.git/
+.gitignore
+render.yaml
