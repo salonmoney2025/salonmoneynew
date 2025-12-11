@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 SalonMoney Platform
 
 **Version:** 1.0.0
@@ -31,7 +32,7 @@ cd ../frontend && npm run dev  # Frontend (Terminal 2)
 ```
 
 **Access:** http://localhost:3000
-**Login:** wisrado / Makeni@2025?.
+**Login:** Use the superadmin credentials created during setup
 
 ---
 
@@ -80,16 +81,11 @@ finalmoney/
 
 ---
 
-## 🔐 Default Credentials
+## 🔐 Admin Access
 
-**Super Admin:**
-```
-Username: wisrado
-Phone: +23273001412
-Password: Makeni@2025?.
-```
+Create superadmin using: `npm run seed:admin`
 
-⚠️ **Change password after first login!**
+⚠️ **Never commit credentials to version control!**
 
 ---
 
@@ -111,3 +107,7 @@ For complete setup instructions, deployment guides, and troubleshooting:
 ---
 
 **Built with ❤️ by the SalonMoney Team**
+=======
+# salonmoney
+salonmoney new
+>>>>>>> a41c6e5ba582c981c5ad6803b4bb48a98a136032
