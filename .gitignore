@@ -8,8 +8,14 @@ yarn-error.log*
 build/
 dist/
 .next/
+frontend/.next/
+frontend/next/
 out/
 *.tsbuildinfo
+
+# Database files
+backend/data/*.db
+backend/data/*.db-journal
 
 # Environment variables
 .env
