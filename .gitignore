@@ -60,3 +60,4 @@ backend/uploads/
 *.sql
 *.dump
 *.backup
+.vercel
