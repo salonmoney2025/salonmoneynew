@@ -1,5 +1,5 @@
 # 🎉 SalonMoney - Secure Salon Financial Platform
-
+.
 A complete, production-ready prepaid-card-style financial system where users invest in salon services, earn daily income, and participate in a referral program.
 
 ## 📋 Table of Contents
