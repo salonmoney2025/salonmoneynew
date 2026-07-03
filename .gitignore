@@ -22,6 +22,10 @@ backend/data/*.db-journal
 .env.local
 .env.*.local
 .env.production.local
+.env.production
+.env.vercel
+backend/.env.production
+backend/.env.vercel
 
 # IDE
 .vscode/
